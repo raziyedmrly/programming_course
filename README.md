@@ -1,2 +1,3 @@
 # programming_course
-- [ ] "Merhaba Dünya" yazan kod
+- [X] "Merhaba Dünya" yazan kod
+https://repl.it/repls/ImpoliteSecondaryAbandonware
